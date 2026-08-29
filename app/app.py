@@ -1,10 +1,3 @@
-"""
-Streamlit app for the car make/model classifier.
-
-Run with:
-    streamlit run app/app.py
-"""
-
 import json
 import sys
 from pathlib import Path
